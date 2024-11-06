@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @finndurkan1
+- 👀 I’m interested in Coding, martial arts, customer service and having fun
+- 🌱 I’m currently learning Python and jiu jitsu
+- 💞️ I’m looking to collaborate on coding projects and IT support related stuff
+- 📫 How to reach me [...](https://www.linkedin.com/in/finn-durkan-313253123/)
